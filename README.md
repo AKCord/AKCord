@@ -52,7 +52,7 @@ Discord: [Click Me](https://discord.com/users/827062335620382751)
 
 
 
-[![AKCord's Github Stats](https://github-readme-stats.vercel.app/api?username=AKCordr&theme=gotham&show_icons=true)](https://github.com/AKALolGamer/github-readme-stats)
+[![AKCord's Github Stats](https://github-readme-stats.vercel.app/api?username=AKCord&theme=gotham&show_icons=true)](https://github.com/AKALolGamer/github-readme-stats)
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKALolGamer&show_icons=true&locale=en&layout=compact" alt="iamtails" /></p>
 
 
