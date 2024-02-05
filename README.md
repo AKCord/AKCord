@@ -4,3 +4,4 @@
 
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=AKCord&show_icons=true)
+https://profile-counter.glitch.me/AKCord/count.svg
