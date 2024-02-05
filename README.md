@@ -3,3 +3,4 @@
 
 
 
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=AKCord)](https://github.com/AKCord/github-readme-stats)
