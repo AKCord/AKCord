@@ -36,5 +36,5 @@ experience stack:
 <br>
 <div align="center">
   <a href="https://discord.com/users/827062335620382751" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865f2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>  
-  <a href="https://discord.com/users/827062335620382751" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
-   <a href="https://discord.com/users/827062335620382751" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=website&logo=htmx&label=&color=A9A9A9&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
+  <a href="https://open.spotify.com/user/314gzi3txrhwggoj5q4xflmst2x4" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
+   <a href="https://akcord.is-a.dev" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=website&logo=htmx&label=&color=A9A9A9&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
