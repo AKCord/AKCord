@@ -1,8 +1,7 @@
 <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=AKCord&label=Profile%20views&color=000000&style=for-the-badge" alt="AKCord" /> </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=akcord&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akcord&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=akcord&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akcord&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+    <img src="https://streak-stats.demolab.com?user=akcord&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=akcord&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -34,4 +33,8 @@ experience stack:
 </div>
 
 ###
-
+<br>
+<div align="center">
+  <a href="https://discord.com/users/827062335620382751" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865f2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>  
+  <a href="https://discord.com/users/827062335620382751" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
+   <a href="https://discord.com/users/827062335620382751" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=website&logo=htmx&label=&color=A9A9A9&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
